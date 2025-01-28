@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "MultiShop.IdentityServer.Controllers.RegisterController",
+    "Method": "UserRegister",
+    "RelativePath": "api/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userRegisterDto",
+        "Type": "MultiShop.IdentityServer.Dtos.UserRegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
