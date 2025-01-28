@@ -17,3 +17,4 @@ C:\Users\Onury\OneDrive\Masaüstü\MultiShop\MultiShop\Services\Order\Infrastruc
 C:\Users\Onury\OneDrive\Masaüstü\MultiShop\MultiShop\Services\Order\Infrastructure\MultiShop.Order.Persistence\obj\Debug\net6.0\MultiShop.Order.Persistence.pdb
 C:\Users\Onury\OneDrive\Masaüstü\MultiShop\MultiShop\Services\Order\Infrastructure\MultiShop.Order.Persistence\obj\Debug\net6.0\MultiShop.Order.Persistence.genruntimeconfig.cache
 C:\Users\Onury\OneDrive\Masaüstü\MultiShop\MultiShop\Services\Order\Infrastructure\MultiShop.Order.Persistence\obj\Debug\net6.0\ref\MultiShop.Order.Persistence.dll
+C:\Users\Onury\OneDrive\Masaüstü\MultiShop\MultiShop\Services\Order\Infrastructure\MultiShop.Order.Persistence\obj\Debug\net6.0\MultiShop.Order.Persistence.sourcelink.json
