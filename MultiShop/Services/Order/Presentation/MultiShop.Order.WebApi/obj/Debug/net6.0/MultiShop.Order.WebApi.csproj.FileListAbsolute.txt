@@ -161,3 +161,5 @@ C:\Users\Onury\OneDrive\Masaüstü\MultiShop\MultiShop\Services\Order\Presentati
 C:\Users\Onury\OneDrive\Masaüstü\MultiShop\MultiShop\Services\Order\Presentation\MultiShop.Order.WebApi\obj\Debug\net6.0\MultiShop.Order.WebApi.pdb
 C:\Users\Onury\OneDrive\Masaüstü\MultiShop\MultiShop\Services\Order\Presentation\MultiShop.Order.WebApi\obj\Debug\net6.0\MultiShop.Order.WebApi.genruntimeconfig.cache
 C:\Users\Onury\OneDrive\Masaüstü\MultiShop\MultiShop\Services\Order\Presentation\MultiShop.Order.WebApi\obj\Debug\net6.0\ref\MultiShop.Order.WebApi.dll
+C:\Users\Onury\OneDrive\Masaüstü\MultiShop\MultiShop\Services\Order\Presentation\MultiShop.Order.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Onury\OneDrive\Masaüstü\MultiShop\MultiShop\Services\Order\Presentation\MultiShop.Order.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll

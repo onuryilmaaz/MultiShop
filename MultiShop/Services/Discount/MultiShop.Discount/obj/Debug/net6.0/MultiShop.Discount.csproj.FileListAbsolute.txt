@@ -67,3 +67,6 @@ C:\Users\Onury\OneDrive\Masaüstü\MultiShop\MultiShop\Services\Discount\MultiSh
 C:\Users\Onury\OneDrive\Masaüstü\MultiShop\MultiShop\Services\Discount\MultiShop.Discount\obj\Debug\net6.0\MultiShop.Discount.pdb
 C:\Users\Onury\OneDrive\Masaüstü\MultiShop\MultiShop\Services\Discount\MultiShop.Discount\obj\Debug\net6.0\MultiShop.Discount.genruntimeconfig.cache
 C:\Users\Onury\OneDrive\Masaüstü\MultiShop\MultiShop\Services\Discount\MultiShop.Discount\obj\Debug\net6.0\ref\MultiShop.Discount.dll
+C:\Users\Onury\OneDrive\Masaüstü\MultiShop\MultiShop\Services\Discount\MultiShop.Discount\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Onury\OneDrive\Masaüstü\MultiShop\MultiShop\Services\Discount\MultiShop.Discount\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Onury\OneDrive\Masaüstü\MultiShop\MultiShop\Services\Discount\MultiShop.Discount\obj\Debug\net6.0\MultiShop.Discount.sourcelink.json
