@@ -75,3 +75,5 @@ C:\Users\Onury\OneDrive\Masaüstü\MultiShop\MultiShop\Services\Cargo\MultiShop.
 C:\Users\Onury\OneDrive\Masaüstü\MultiShop\MultiShop\Services\Cargo\MultiShop.Cargo.WebApi\obj\Debug\net6.0\MultiShop.Cargo.WebApi.pdb
 C:\Users\Onury\OneDrive\Masaüstü\MultiShop\MultiShop\Services\Cargo\MultiShop.Cargo.WebApi\obj\Debug\net6.0\MultiShop.Cargo.WebApi.genruntimeconfig.cache
 C:\Users\Onury\OneDrive\Masaüstü\MultiShop\MultiShop\Services\Cargo\MultiShop.Cargo.WebApi\obj\Debug\net6.0\ref\MultiShop.Cargo.WebApi.dll
+C:\Users\Onury\OneDrive\Masaüstü\MultiShop\MultiShop\Services\Cargo\MultiShop.Cargo.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Onury\OneDrive\Masaüstü\MultiShop\MultiShop\Services\Cargo\MultiShop.Cargo.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
